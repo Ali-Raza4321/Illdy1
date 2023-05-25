@@ -1,0 +1,929 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    width: 100%;
+    height: 570vh;
+    background-color: white;
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+    padding: 1px;
+}
+.ali{
+    width: 500px;
+    height: 280px;
+    /* border: 1px solid red; */
+}
+.ali h1{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.ali i{
+    font-size: 15px;
+    color: rgb(13, 123, 173);
+    margin-right: 8px;
+}
+.raza{
+    margin-right: 10px;
+}
+.ali li{
+    margin-left: 120px;
+    margin-top: 20px;
+    list-style: none;
+}
+#box2{
+    width: 500px;
+    height: 180px;
+    /* border: 1px solid red; */
+    margin-top: -80px;
+}
+#box2 h1{
+    margin-left: 100px;
+}
+#box2 i{
+    font-size: 15px;
+    margin-right: 8px;
+    color: rgb(30, 117, 194);
+}
+#box2 li{
+    margin-left: 120px;
+    margin-top: 20px;
+    list-style: none;
+}
+.raza1{
+    margin-right: 10px;
+}
+#box3{
+    width: 650px;
+    height: 130px;
+    /* border: 1px solid red; */
+}
+#box3 h1{
+    margin-left: 100px;
+}
+#box3 i{
+    font-size: 15px;
+    color: rgb(12, 106, 168);
+    margin-right: 8px;
+
+}
+#box3 li{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.ali2{
+    color: rgb(9, 21, 194);
+    font-size: 18px;
+}
+#box4{
+    width: 500px;
+    height: 400px;
+    /* border: 1px solid red; */
+}
+#box4 h1{
+    margin-left: 100px;
+
+}
+#box4 i{
+    font-size: 15px;
+    color: rgb(12, 106, 168);
+    margin-right: 8px;
+}
+#box4 h3{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#box4 li{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#box5{
+    width: 606px;
+    height: 550vh;
+    border: 1px solid;
+    margin-top: -950px;
+    margin-left: 700px;
+}
+.pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9, .pic10, .pic11, .pic12, .pic13, .pic14, .pic15, .pic16, .pic17, .pic18, .pic19, .pic20, .pic21, .pic22, .pic23, .pic24, .pic25, .pic26, .pic27, .pic28, .pic29, .pic30, .pic31, .pic32, .pic33, .pic34, .pic35, .pic36, .pic37, .pic38, .pic39, .pic40, .pic41, .pic42, .pic43, .pic44, .pic45, .pic46, .pic47, .pic48, .pic49, .pic50{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    float: left;
+   
+}
+.pic1{
+    background-image: url(Flaris_LAR-1_1600px-1\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.a1{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(1, 89, 165, 0.596);
+    margin-top: -200px;
+}
+.pic1:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic2{
+    background-image: url(Flaris_LAR-1_1600px-2.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic2:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic3{
+    background-image: url(Flaris_LAR-1_1600px-3\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic3:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic4{
+    background-image: url(Flaris_LAR-1_1600px-4\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic4:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic5{
+    background-image: url(Flaris_LAR-1_1600px-5.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic5:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic6{
+    background-image: url(Flaris_LAR-1_1600px-6\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic6:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic7{
+    background-image: url(Flaris_LAR-1_1600px-7\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic7:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic8{
+    background-image: url(Flaris_LAR-1_1600px-8\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic8:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic9{
+    background-image: url(Flaris_LAR-1_1600px-9\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic9:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic10{
+    background-image: url(Flaris_LAR-1_1600px-10\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic10:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic11{
+    background-image: url(Flaris_LAR-1_1600px-11.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic11:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic12{
+    background-image: url(Flaris_LAR-1_1600px-12\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic12:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic13{
+    background-image: url(Flaris_LAR-1_1600px-13\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic13:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic14{
+    background-image: url(Flaris_LAR-1_1600px-14.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic14:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic15{
+    background-image: url(Flaris_LAR-1_1600px-15\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic15:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic16{
+    background-image: url(Flaris_LAR-1_1600px-16\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic16:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic17{
+    background-image: url(Flaris_LAR-1_1600px-17.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic17:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic18{
+    background-image: url(Flaris_LAR-1_1600px-18.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic18:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic19{
+    background-image: url(Flaris_LAR-1_1600px-19.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic19:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic20{
+    background-image: url(20.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic20:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic21{
+    background-image: url(Flaris_LAR-1_1600px-21.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic21:hover:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic22{
+    background-image: url(Flaris_LAR-1_1600px-22.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic22:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic23{
+    background-image: url(Flaris_LAR-1_1600px-23\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic23:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic24{
+    background-image: url(24.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic24:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic25{
+    background-image: url(25.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic25:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic26{
+    background-image: url(26.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic26:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic27{
+    background-image: url(27.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic27:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic28{
+    background-image: url(28.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic28:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic29{
+    background-image: url(29.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic29:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+
+.pic30{
+    background-image: url(30.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic30:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic31{
+    background-image: url(31.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic31:hover:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+
+.pic32{
+    background-image: url(32.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic32:hover:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic33{
+    background-image: url(33.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic33:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic34{
+    background-image: url(34.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic34:hover:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic35{
+    background-image: url(35.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic35:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic36{
+    background-image: url(36.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic36:hover:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic37{
+    background-image: url(37.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic37:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic38{
+    background-image: url(38.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic38:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic39{
+    background-image: url(39.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic39:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic40{
+    background-image: url(40.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic40:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic41{
+    background-image: url(41.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+.pic41:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic42{
+    background-image: url(42.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic42:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic43{
+    background-image: url(43.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic43:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic44{
+    background-image: url(44.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic44:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic45{
+    background-image: url(45.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic45:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic46{
+    background-image: url(46.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic46:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic47{
+    background-image: url(47.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic47:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic48{
+    background-image: url(48.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic48:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic49{
+    background-image: url(49.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic49:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.pic50{
+    background-image: url(50.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.pic50:hover .a1{
+    margin-top: 0px;
+    transition: .5s;
+}
+.box6{
+    width: 100%;
+    height: 65vh;
+    /* border: 1px solid ; */
+    background-image: url(https://flaris.pl/wp-content/uploads/2018/09/enface-4.png);
+    background-size: cover;
+    background-position: center;
+    background-color: #1E1E1E;
+    box-sizing: border-box;
+    padding: 1px;
+}
+.box6 h1{
+    margin-left: 800px;
+    margin-top: 50px;
+    color: white;
+}
+.box6 i{
+    font-size: 17px;
+    margin-right: 10px;
+    color: #069ac7;
+    vertical-align: top;
+    margin-top: 8px;
+}
+.box6 p{
+    color: white;
+    margin-left: 800px;
+    margin-top:50px;
+    line-height: 23px;
+}
+.box6 button{
+    width: 190px;
+    height: 50px;
+    margin-left: 950px;
+    margin-top: 70px;
+    border: 2px solid rgb(0, 140, 255);
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+}
+.box7 button:hover{
+    background-color: rgb(0, 140, 255);
+}
+.box7 i{
+    margin-left: 6px;
+    margin-top: 2px;
+    font-size: 14px;
+    color: white;
+}
+.box8{
+    width: 100%;
+    height: 70vh;
+    /* border: 1px solid; */
+    box-sizing: border-box;
+    background-color:#1E1E1E;    
+    padding: 1px;
+
+}
+.box8 h1{
+    margin-left: 300px;
+    color: white;
+    margin-top: 80px;
+}
+.box8 i{
+    font-size: 17px;
+    margin-right: 10px;
+    color: #069ac7;
+    vertical-align: top;
+    margin-top: 11px;
+}
+.box8 p{
+    color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    line-height: 23px;
+}
+.box8 button{
+    width: 190px;
+    height: 50px;
+    margin-left: 320px;
+    margin-top: 70px;
+    border: 2px solid rgb(0, 140, 255);
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+}
+.box8 button:hover{
+    background-color: rgb(0, 140, 255);
+}
+.box8 i{
+    margin-left: 6px;
+    margin-top: 2px;
+    font-size: 14px;
+    color: white;
+}
+.box9{
+    width: 500px;
+    height: 400px;
+    /* border: 1px solid; */
+    margin-top: -370px;
+    margin-left: 770px;
+}
+#box10{
+    height: 100%;
+    width: 100%;
+}
+.box11{
+    width: 100%;
+    height: 65vh;
+    /* border: 1px solid; */
+    box-sizing: border-box; 
+    background-color: #1E1E1E;
+
+}
+.box12{
+    background-image: url(http://flaris.pl/wp-content/uploads/2019/01/wynajem.png);
+    background-size: contain;
+    width: 700px;
+    height: 65vh;
+    background-repeat: no-repeat; 
+    /* border: 1px solid;  */
+}
+.box11 h1{
+    color: white;
+    margin-top: -390px;
+    margin-left: 720px;
+}
+.box11 i{
+    font-size: 15px;
+    margin-right: 8px;
+    color: #069ac7  ;
+    /* vertical-align: top; */
+     
+}
+.box11 p{
+    color: white;
+    line-height: 23px;
+    margin-top: 40px;
+    margin-left: 720px;
+}
+.box11 button{
+    width: 190px;
+    height: 50px;
+    margin-left: 950px;
+    margin-top: 70px;
+    border: 2px solid rgb(0, 140, 255);
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+}
+.box11 button:hover{
+    background-color: rgb(0, 140, 255);
+}
+.box11 i{
+    margin-left: 6px;
+    margin-top: 2px;
+    font-size: 14px;
+    color: white;
+}
+.box13{
+    width: 60%;
+    height: 180vh;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin-left: 40%;
+}
+.b1{
+    width: 40%;
+    height: 170vh;
+    /* border: 1px solid; */
+    background-image: url(https://flaris.pl/wp-content/uploads/2019/01/masz_pytania_filtr.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: -1125px;
+
+}
+.box13 h1{
+    margin-left: 70px;
+    margin-top: 70px;
+
+}
+.box13 i{
+    color: #069ac7;
+    font-size: 17px;
+    margin-right: 8px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.box14{
+    width: 650px;
+    height: 180px;
+    /* border: 1px solid; */
+   
+    margin-left: 80px;
+    margin-top: 70px;
+}
+#b2{
+    width: 300px;
+    height: 60px;
+    /* border: 1px solid; */
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+#b3{
+    width: 300px;
+    height: 60px;
+    /* border: 1px solid; */
+    margin-left: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+#b4{
+    width: 300px;
+    height: 60px;
+    /* border: 1px solid; */
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+#b5{
+    width: 300px;
+    height: 60px;
+    /* border: 1px solid; */
+    margin-left: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+.box13 h4{
+    margin-left: 90px;
+    color: #5e6061;
+}
+#radio1{
+    margin-left: 90px;
+    margin-top: 10px;
+
+}
+#radio2{
+    margin-left:90px;    
+}
+#b6{
+    width: 600px;
+    height: 170px;
+    /* border: 1px solid; */
+    margin-top: 30px;
+    margin-left: 90px;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+#b7{
+    width: 600px;
+    height: 60px;
+    margin-left: 90px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+#b8{
+    width: 600px;
+    height: 60px;
+    margin-left: 90px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.box18 button{
+    /* width: 80px; */
+    height: 50px;
+    border: 1px solid rgb(0, 162, 255);
+    margin-left: 610px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: #069ac7;
+    font-weight: bold;
+    padding: 0px 10px;
+    /* transition: 1s; */
+
+}
+.box18 i{
+    font-size: 11px;
+    margin-left: -8px;
+    margin-top: 3px;
+    opacity: 0;
+}
+.box18 i:hover{
+    margin-left: 10px;
+    opacity: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
